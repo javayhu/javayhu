@@ -1,4 +1,4 @@
-# Hi, I am javayhu 👋
+# Hi, I'm javayhu 👋
 
 #### Fullstack Developer, Indie Hacking.
 
