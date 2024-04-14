@@ -2,6 +2,6 @@
 
 #### Fullstack Developer, Indie Hacking.
 
-- 🚀 Working on some side projects.
+- 🚀 Working on some side projects, for instance, [海棠诗社-古诗词学习网站](https://pocketpoetry.club)
 - 📖 Learning fullstack developing & indie hacking.
-- 📫 Connect me with: [Twitter](https://twitter.com/javayhu) • [Linkedin](https://www.linkedin.com/in/javayhu) • [Website](https://javayhu.site) • [Email](mailto:javayhu@gmail.com)
+- 📫 Connect me with: [Twitter](https://twitter.com/javayhu) • [Linkedin](https://www.linkedin.com/in/javayhu) • [Blog](https://javayhu.site) • [Email](mailto:javayhu@gmail.com)
