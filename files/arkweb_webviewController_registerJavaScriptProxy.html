@@ -11,10 +11,12 @@
         // test是Native侧暴露的方法名称
         let str = testObjName.test();
         document.getElementById("demo").innerHTML = str;
-        console.info('ArkTS Hello World! :' + str);
+        console.info('Test Content:' + str);
         alert('Test Content:' + str);
     }
     function callAlert() {
+        document.getElementById("demo").innerHTML = str;
+        console.info('Hello World!');
         alert('Hello world');
     }
 </script>
