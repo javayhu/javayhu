@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<button type="button" onclick="callArkTS()">Click Me!</button>
+<button type="button" onclick="callArkTS()">Click Me to call ArkTs!</button>
+<button type="button" onclick="callAlert()">Click Me to show alert!</button>
 <p id="demo"></p>
 <script>
     function callArkTS() {
@@ -12,6 +13,9 @@
         document.getElementById("demo").innerHTML = str;
         console.info('ArkTS Hello World! :' + str);
         alert('Test Content:' + str);
+    }
+    function callAlert() {
+        alert('Hello world');
     }
 </script>
 </body>
