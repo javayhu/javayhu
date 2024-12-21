@@ -4,7 +4,6 @@
 #### Fullstack Developer, Indie Hacking.
 
 - 👨‍💻 Build in public on [Twitter](https://twitter.com/javay_hu) and [Bluesky](https://bsky.app/profile/javayhu.com)
-- 📫 Connect me with [Email](mailto:javayhu@gmail.com)
 - 📃 Write what I learn in [Blog](https://javayhu.com)
 - 🌟 [Mkdirs](https://mkdirs.com) - The best directory boilerplate
 - 🚀 [IndieHub](https://indiehub.best) - The Best Directory for Indie Makers
