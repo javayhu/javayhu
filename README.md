@@ -1,9 +1,6 @@
 
 # Hi, I'm javayhu 👋
 
-#### Fullstack Developer, Indie Hacking.
-
-- 📃 Write about indie hacking on [Blog](https://javayhu.com)
 - 🔥 [MkSaaS](https://mksaas.com) - The best SaaS boilerplate with AI
 - 🌟 [Mkdirs](https://mkdirs.com) - The best directory boilerplate with AI
 - 🚀 [IndieHub](https://indiehub.best) - The best directory for Indie Makers
